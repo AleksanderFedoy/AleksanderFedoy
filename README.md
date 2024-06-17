@@ -9,7 +9,7 @@
 
 # Hei, jeg er Aleksander! 👋
 
-🎓 **Utdanning:** Bachelor i Informatikk: Datateknologi ved Universitet i Bergen. Tidligere Masterutdannet lektor med hovedfag i matematikk ved Universitet i Agder.
+🎓 **Utdanning:** Bachelor i Informatikk: Datateknologi ved Universitetet i Bergen. Tidligere Masterutdannet lektor med hovedfag i matematikk ved Universitetet i Agder.
 
 👔 **Stilling:** Trainee, Development and data warehouse @ Lerøy
 
