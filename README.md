@@ -1,16 +1,18 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aleksander-L-Fedoy.Aleksander-L-Fedoy" />
 
-<!--
-**AleksanderFedoy/AleksanderFedoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heisann!+👋;+Jeg+er+Aleksander!+👨‍💻;Trainee,+Development+and+data+warehouse+@+Lerøy" />
+</h1>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,haskell,vscode,linux,mysql,git,r)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hei, jeg er Aleksander! 👋
+
+🎓 **Utdanning:** Bachelor i Informatikk: Datateknologi ved Universitet i Bergen. Tidligere Masterutdannet lektor med hovedfag i matematikk ved Universitet i Agder.
+
+👔 **Stilling:** Trainee, Development and data warehouse @ Lerøy
+
+📫 **Kontakt:** [Send meg en e-post](mailto:aleksander.fedoy@gmail.com) eller på mobil: +47 41 19 23 50
+
+![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksanderFedoy&show_icons=true&theme=radical)
