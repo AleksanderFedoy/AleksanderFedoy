@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aleksander-L-Fedoy.Aleksander-L-Fedoy" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AleksanderFedoy.AleksanderFedoy" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heisann!+👋;+Jeg+er+Aleksander!+👨‍💻;Trainee,+Development+and+data+warehouse+@+Lerøy" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heisann!+👋;+Jeg+er+Aleksander!+👨‍💻;Trainee;Development+and+data+warehouse;@+Lerøy" />
 </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,haskell,vscode,linux,mysql,git,r)](https://skillicons.dev)
