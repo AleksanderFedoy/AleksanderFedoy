@@ -15,7 +15,6 @@
 
 📫 **Kontakt:** [Send meg en e-post](mailto:aleksander.fedoy@leroy.com) eller ta kontakt på mobil: +47 41 19 23 50
 
-![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksanderFedoy&show_icons=true&theme=radical)
-
+![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksanderFedoy&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 <!-- This works? -->
