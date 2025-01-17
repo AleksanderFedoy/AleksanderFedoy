@@ -16,6 +16,8 @@
 📫 **Kontakt:** [Send meg en e-post](mailto:aleksander.fedoy@leroy.com) eller ta kontakt på mobil: +47 41 19 23 50
 
 <!-- ![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksanderFedoy&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AleksanderFedoy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=AleksanderFedoy&theme=dark&border=false&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</a>
 <!-- This works? -->
